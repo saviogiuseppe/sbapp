@@ -1,3 +1,3 @@
-# Project DB Application
+# Project SB Application
 
 This is the first application for Project SB
